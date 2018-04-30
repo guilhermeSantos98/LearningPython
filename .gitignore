@@ -1,4 +1,5 @@
 *.pyc
 .vscode
 /venv
-/scrapes
+/data
+/.mypy_cache
