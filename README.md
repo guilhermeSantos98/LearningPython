@@ -19,7 +19,7 @@ This project shows my progress with python
     [Find it here](https://github.com/guilhermeSantos98/LearningPython/tree/ea7b209231f3658f27de69ed8cbde863c36f346f)
 
 2. My Second ML project with the goal to predict the object [airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck] using the [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
-    [Find it here](https://www.cs.toronto.edu/~kriz/cifar.html)
+    [Find it here](https://github.com/guilhermeSantos98/LearningPython/tree/129adb245d21154470ddfa6b142eb6b5068e4513)
 
 ## Author
 
